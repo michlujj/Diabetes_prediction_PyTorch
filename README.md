@@ -2,11 +2,9 @@
 
 Background:
 
-Dataset is a collection of medical and demographic data from patients, with diagnosis of diabetes (0 or 1).
+Dataset is a collection of medical and demographic data from 100,000 patients, with diagnosis of diabetes (0 or 1).
 
-Dataset contains features such as gender, age, gender, body mass index (BMI), hypertension, heart disease, smoking history, 
-
-HbA1c level, and blood glucose level.
+Dataset contains features such as gender, age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
 
 This is a classification problem.
 
