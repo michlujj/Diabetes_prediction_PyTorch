@@ -20,4 +20,4 @@ Thus, AUC and F1 scores are used to compute the accuracy rate of the prediction 
 
 AdaBoost classifier prediction model has the highest AUC score = 89.25%.
 
-Factors assciated with being Diabetic: 1) HbA1c level, 2) blood glucose level, 3) age, 4) BMI, 5) Hypertension
+Factors assciated with being Diabetic: 1) HbA1c level, 2) blood glucose level, 3) Hypertension, 4) Heart Disease, 5) Age
